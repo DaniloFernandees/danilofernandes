@@ -1,4 +1,6 @@
-## Oi, eu sou o Danilo Fernandes, estou iniciando na carreira de desenvolvimento e tecnologia!
+## Hi there, I am Danilo Fernandes! 🦊
+
+Olá, comecei minha carreira na área da tecnologia prestando suporte em sistemas ERP, fazendo o controle e gerenciamento no AD, configurações de rede e entre outras tarefas relacionadas a suporte e infraestrutura. Sou apaixonado pela área de desenvolvimento e foi a partir disso que dei início ao meu avanço como desenvolvedor e pretendo me especializar cada vez mais para entregar um resultado de qualidade.
 <div align="center">
   <a href="https://github.com/danilofernandees">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilofernandees&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
